@@ -1,0 +1,7 @@
+*.pdf
+*.mat
+*.swp
+
+# dirs
+machine-learning-ex*/ex*/lib/*
+
